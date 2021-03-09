@@ -1,7 +1,7 @@
 # mbed_hw1
 
 Put hw1.py and 108060033.csv into same file  
-Run in command line 
+Run in terminal
 ```
 python3 hw1.py
 ```
